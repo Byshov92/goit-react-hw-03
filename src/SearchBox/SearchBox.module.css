@@ -1,0 +1,17 @@
+.title{
+  font-size: 1rem;
+  color: #7BF0A2;
+}
+.input {
+  background-color:#BFFFD4;
+  color: #000000;
+  border: none;
+  border-radius: 5px;
+  padding: 2px 5px;
+  width: 100%;
+}
+
+.input:hover,
+.input:focus{
+  background-color:#7BF0A2;
+}

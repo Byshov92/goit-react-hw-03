@@ -1,0 +1,24 @@
+.wrap {
+  display: flex;
+  gap: 15px;
+  align-items: center;
+  justify-content: space-between;
+  border: 1px solid #5577FF;
+  border-radius: 5px;
+  padding: 15px;
+}
+
+
+.text{
+color: #5577FF;
+}
+
+.button {
+  background-color: #5577FF;
+  padding: 5px;
+  color: #1D4AFC;
+}
+
+button:hover {
+  background-color: #FC3C2E;
+}
